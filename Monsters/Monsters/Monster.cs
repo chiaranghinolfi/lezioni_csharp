@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Windows.Forms;
 
 namespace Monsters
 {
@@ -19,11 +20,17 @@ namespace Monsters
             this.damage = damage;
             describe();
         }
-        public void describe()
+        public string describe()
         {
-            Console.WriteLine("Questo è " + name);
-            Console.WriteLine("HP: " + hp);
-            Console.WriteLine("DAMAGE: " + damage);
+            string output ="Questo è " + name + "\r\n";
+            output +="HP: " + hp + "\r\n";
+            output += "DAMAGE: " + damage+"\r\n";
+
+            return output;
+        }
+        public void describe(TextBox t)
+        {
+            t.Text = describe();
         }
 
     }

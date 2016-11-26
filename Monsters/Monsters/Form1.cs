@@ -21,6 +21,8 @@ namespace Monsters
         {
             Monster m = new Monster("Strongbonna", 10, 50);
             Monster m2 = new Monster("Tizio", 56, 10);
+
+            m.describe(textBox1);
         }
     }
 }

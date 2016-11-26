@@ -6,3 +6,12 @@ C:\Users\Chiara\Desktop\Superiori\Informatica\C#\Monsters\Monsters\obj\Debug\Mon
 C:\Users\Chiara\Desktop\Superiori\Informatica\C#\Monsters\Monsters\obj\Debug\Monsters.csproj.GenerateResource.Cache
 C:\Users\Chiara\Desktop\Superiori\Informatica\C#\Monsters\Monsters\obj\Debug\Monsters.exe
 C:\Users\Chiara\Desktop\Superiori\Informatica\C#\Monsters\Monsters\obj\Debug\Monsters.pdb
+C:\Users\Chiara\Desktop\Superiori\Informatica\C#\Monster3F\Monsters\Monsters\bin\Debug\Monsters.exe.config
+C:\Users\Chiara\Desktop\Superiori\Informatica\C#\Monster3F\Monsters\Monsters\obj\Debug\Monsters.exe
+C:\Users\Chiara\Desktop\Superiori\Informatica\C#\Monster3F\Monsters\Monsters\obj\Debug\Monsters.pdb
+C:\Users\Chiara\Desktop\Superiori\Informatica\C#\Monster3F\Monsters\Monsters\bin\Debug\Monsters.exe
+C:\Users\Chiara\Desktop\Superiori\Informatica\C#\Monster3F\Monsters\Monsters\bin\Debug\Monsters.pdb
+C:\Users\Chiara\Desktop\Superiori\Informatica\C#\Monster3F\Monsters\Monsters\obj\Debug\Monsters.csprojResolveAssemblyReference.cache
+C:\Users\Chiara\Desktop\Superiori\Informatica\C#\Monster3F\Monsters\Monsters\obj\Debug\Monsters.Form1.resources
+C:\Users\Chiara\Desktop\Superiori\Informatica\C#\Monster3F\Monsters\Monsters\obj\Debug\Monsters.Properties.Resources.resources
+C:\Users\Chiara\Desktop\Superiori\Informatica\C#\Monster3F\Monsters\Monsters\obj\Debug\Monsters.csproj.GenerateResource.Cache
