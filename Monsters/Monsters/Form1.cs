@@ -19,10 +19,11 @@ namespace Monsters
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            Monster m = new Monster("Strongbonna", 10, 50);
-            Monster m2 = new Monster("Tizio", 56, 10);
-
-            m.describe(textBox1);
+            Monster strongbonna = new Monster("Strongbonna", 10, 50);
+            Monster charmender = new Monster("Charmender", 56, 10);
+            strongbonna.attack(charmender);
+            strongbonna.attack(charmender);
+            strongbonna.attack(charmender);
         }
     }
 }
