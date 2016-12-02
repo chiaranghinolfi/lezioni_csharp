@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Monsters
+namespace TestClassi
 {
     public partial class Form1 : Form
     {
@@ -21,7 +21,6 @@ namespace Monsters
         {
             Monster strongbonna = new Monster("Strongbonna", 100, 20);
             Monster charmender = new Monster("Charmender", 60, 20, 10);
-
 
             strongbonna.attack(charmender);
             charmender.attack(strongbonna);
