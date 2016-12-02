@@ -14,8 +14,12 @@ namespace Monsters
         public int curHp;
         public int damage;
         public int healFactor;
+<<<<<<< HEAD
 
         public Monster(string name, int maxHp, int damage, int healFactor = 0)
+=======
+        public Monster(string name, int maxHp, int damage, int healFactor=0)
+>>>>>>> 322c85d79bfb3960217675e650868e32ade979cc
         {
             this.name = name;
             this.maxHp = maxHp;
@@ -89,5 +93,32 @@ namespace Monsters
         {
             heal(this);
         }
+<<<<<<< HEAD
+=======
+       public void heal(Monster target)
+        {
+            if (target.healFactor == 0)
+            {
+                Console.WriteLine(name + " Non puoi curare nessuno.");
+                return;
+            }
+            if (target.curHp <=0)
+            {
+                Console.WriteLine(name + " Non puoi curare nessuno da esausto.");
+                return;
+            }
+            if (target.curHp<= 0)
+            {
+                Console.WriteLine(target.name + " Non puoi essere curato se sei esausto.");
+                return;
+            }
+            target.curHp += target.healFactor;
+            if (target.curHp> target.maxHp)
+            {
+                target.curHp = target.maxHp;
+
+            }
+        }
+>>>>>>> 322c85d79bfb3960217675e650868e32ade979cc
     }
 }

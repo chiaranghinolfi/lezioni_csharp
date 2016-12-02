@@ -15,3 +15,6 @@ C:\Users\Chiara\Desktop\Superiori\Informatica\C#\Monster3F\Monsters\Monsters\obj
 C:\Users\Chiara\Desktop\Superiori\Informatica\C#\Monster3F\Monsters\Monsters\obj\Debug\Monsters.Form1.resources
 C:\Users\Chiara\Desktop\Superiori\Informatica\C#\Monster3F\Monsters\Monsters\obj\Debug\Monsters.Properties.Resources.resources
 C:\Users\Chiara\Desktop\Superiori\Informatica\C#\Monster3F\Monsters\Monsters\obj\Debug\Monsters.csproj.GenerateResource.Cache
+Z:\Monster3F\Monsters\Monsters\bin\Debug\Monsters.exe.config
+Z:\Monster3F\Monsters\Monsters\obj\Debug\Monsters.exe
+Z:\Monster3F\Monsters\Monsters\obj\Debug\Monsters.pdb
