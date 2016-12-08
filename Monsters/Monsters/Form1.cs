@@ -22,9 +22,15 @@ namespace TestClassi
             Monster strongbonna = new Monster("Strongbonna", 100, 20);
             Monster charmender = new Monster("Charmender", 60, 20, 10);
 
+            
+
+
             strongbonna.attack(charmender);
+            //strongbonna.describe(textBox1);
+            //textBox1.Text = strongbonna.describe();
             charmender.attack(strongbonna);
             strongbonna.heal();
+            strongbonna.curHp = 2442;
             charmender.heal(strongbonna);
             strongbonna.attack(charmender);
             strongbonna.attack(charmender);
